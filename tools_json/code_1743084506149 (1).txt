@@ -1,0 +1,32 @@
+{
+  "测试/诊断工具": {
+    "硬件测试": {
+      "麦克风测试": [
+        { "网站名称": "Online Mic Test", "网址": "https://www.onlinemictest.com/", "描述": "快速测试麦克风是否正常工作的在线工具。" },
+        { "网站名称": "MicTests", "网址": "https://mictests.com/", "描述": "简单的在线麦克风测试工具，无需下载软件。" },
+        { "网站名称": "Check Mic", "网址": "https://www.checkmic.com/", "描述": "支持麦克风检测和音质分析。" },
+        { "网站名称": "Mic Test Online", "网址": "https://mic-test.com/", "描述": "在线测试麦克风是否正常工作，支持实时音频反馈。" },
+        { "网站名称": "AudioCheck", "网址": "https://www.audiocheck.net/", "描述": "提供全面的音频设备测试，包括麦克风测试。" },
+        { "网站名称": "DeviceTests", "网址": "https://devicetests.com/microphone-test", "描述": "支持检测麦克风性能和音量的工具。" },
+        { "网站名称": "OnlineVoiceRecorder", "网址": "https://online-voice-recorder.com/", "描述": "录音并测试麦克风质量的工具。" },
+        { "网站名称": "Speechnotes", "网址": "https://speechnotes.co/", "描述": "支持语音转文本和麦克风录音测试的工具。" },
+        { "网站名称": "Voice Spice", "网址": "https://www.voicespice.com/", "描述": "支持实时麦克风测试和音频录制。" },
+        { "网站名称": "Microphone Checker", "网址": "https://www.microphonechecker.com/", "描述": "用于快速检测麦克风是否正常工作的工具。" }
+      ]
+    },
+    "网络测试": {
+      "网速测试": [
+        { "网站名称": "Speedtest by Ookla", "网址": "https://www.speedtest.net/", "描述": "最受欢迎的网络速度测试工具，提供详细的上传、下载和延迟信息。" },
+        { "网站名称": "Fast.com", "网址": "https://fast.com/", "描述": "由 Netflix 提供的简洁网络速度测试工具。" },
+        { "网站名称": "Google Speed Test", "网址": "https://www.google.com/search?q=speed+test", "描述": "通过 Google 搜索即可使用的网速测试工具。" },
+        { "网站名称": "SpeedOf.Me", "网址": "https://speedof.me/", "描述": "HTML5 驱动的轻量级速度测试工具，无需插件。" },
+        { "网站名称": "TestMy.net", "网址": "https://testmy.net/", "描述": "提供真实网络情况测试的工具，支持多种测试模式。" },
+        { "网站名称": "Bandwidth Place", "网址": "https://www.bandwidthplace.com/", "描述": "简单快速的网络速度测试工具。" },
+        { "网站名称": "nPerf", "网址": "https://www.nperf.com/en/", "描述": "提供详细网速测试报告，支持全球服务器。" },
+        { "网站名称": "OpenSpeedTest", "网址": "https://openspeedtest.com/", "描述": "基于浏览器的网络速度测试工具，无需下载。" },
+        { "网站名称": "Xfinity Speed Test", "网址": "https://speedtest.xfinity.com/", "描述": "由 Xfinity 提供的网络速度测试工具。" },
+        { "网站名称": "AT&T Internet Speed Test", "网址": "https://www.att.com/support/speedtest/", "描述": "由 AT&T 提供的网络速度测试工具。" }
+      ]
+    }
+  }
+}

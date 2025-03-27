@@ -1,0 +1,44 @@
+{
+  "开发者工具": {
+    "编程辅助": {
+      "在线代码编辑器": [
+        { "网站名称": "CodePen", "网址": "https://codepen.io/", "描述": "适合前端开发者的在线代码编辑器，支持 HTML、CSS 和 JavaScript。" },
+        { "网站名称": "JSFiddle", "网址": "https://jsfiddle.net/", "描述": "用于在线测试和共享 HTML、CSS 和 JavaScript 代码片段。" },
+        { "网站名称": "Replit", "网址": "https://replit.com/", "描述": "支持多种编程语言的在线代码编辑器与协作平台。" },
+        { "网站名称": "Glitch", "网址": "https://glitch.com/", "描述": "一个实时协作的在线代码编辑与托管平台，适合快速开发。" },
+        { "网站名称": "StackBlitz", "网址": "https://stackblitz.com/", "描述": "支持 Angular、React 和其他前端框架的在线开发环境。" },
+        { "网站名称": "PlayCode", "网址": "https://playcode.io/", "描述": "在线 JavaScript 编辑器和实时调试工具。" },
+        { "网站名称": "CodeSandbox", "网址": "https://codesandbox.io/", "描述": "用于构建和共享基于 Web 的项目，支持 React、Vue 等框架。" },
+        { "网站名称": "OnlineGDB", "网址": "https://www.onlinegdb.com/", "描述": "支持多种语言的在线 IDE 和调试工具。" },
+        { "网站名称": "Ideone", "网址": "https://ideone.com/", "描述": "支持在线代码运行和共享的工具，适合快速测试代码。" },
+        { "网站名称": "Dabblet", "网址": "https://dabblet.com/", "描述": "专注于 HTML 和 CSS 编辑与预览的轻量级在线工具。" }
+      ],
+      "JSON 格式化/美化": [
+        { "网站名称": "JSONLint", "网址": "https://jsonlint.com/", "描述": "用于验证和美化 JSON 数据的简单工具。" },
+        { "网站名称": "JSON Formatter & Validator", "网址": "https://jsonformatter.curiousconcept.com/", "描述": "支持 JSON 格式验证和可视化的工具。" },
+        { "网站名称": "FreeFormatter", "网址": "https://www.freeformatter.com/json-formatter.html", "描述": "提供 JSON 格式化、美化和验证功能。" },
+        { "网站名称": "Code Beautify", "网址": "https://codebeautify.org/jsonviewer", "描述": "支持 JSON 格式化、验证和树状结构查看。" },
+        { "网站名称": "Online JSON Viewer", "网址": "https://jsonviewer.stack.hu/", "描述": "用于在线格式化和查看 JSON 数据结构的工具。" },
+        { "网站名称": "JSON Editor Online", "网址": "https://jsoneditoronline.org/", "描述": "支持在线编辑、格式化和验证 JSON 数据的工具。" },
+        { "网站名称": "BeautifyTools", "网址": "https://beautifytools.com/json-validator.php", "描述": "提供 JSON 格式化和验证的工具，支持可视化显示。" },
+        { "网站名称": "JSON Formatter", "网址": "https://jsonformatter.org/", "描述": "简单易用的 JSON 格式化和验证工具。" },
+        { "网站名称": "Prettier", "网址": "https://prettier.io/playground/", "描述": "支持 JSON 和其他编程语言格式化的工具。" },
+        { "网站名称": "JSONCompare", "网址": "https://jsoncompare.com/", "描述": "支持 JSON 比较、格式化和验证的工具。" }
+      ]
+    },
+    "网络开发": {
+      "API 调试工具": [
+        { "网站名称": "Postman", "网址": "https://www.postman.com/", "描述": "功能强大的 API 调试和测试工具，支持团队协作。" },
+        { "网站名称": "Hoppscotch", "网址": "https://hoppscotch.io/", "描述": "轻量级的 API 请求测试工具，适合快速调试。" },
+        { "网站名称": "cURL Command Generator", "网址": "https://curl.trillworks.com/", "描述": "根据 API 请求生成 cURL 命令的工具。" },
+        { "网站名称": "ReqBin", "网址": "https://reqbin.com/", "描述": "支持在线发送 HTTP 请求并查看响应的工具。" },
+        { "网站名称": "Swagger UI", "网址": "https://swagger.io/tools/swagger-ui/", "描述": "用于测试和可视化 API 的强大工具，支持 OpenAPI 标准。" },
+        { "网站名称": "Insomnia", "网址": "https://insomnia.rest/", "描述": "支持 REST 和 GraphQL API 调试的工具。" },
+        { "网站名称": "RapidAPI", "网址": "https://rapidapi.com/", "描述": "集成了众多 API 的调试和测试工具。" },
+        { "网站名称": "Paw", "网址": "https://paw.cloud/", "描述": "专为 macOS 用户设计的 API 调试和测试工具。" },
+        { "网站名称": "HTTP Toolkit", "网址": "https://httptoolkit.tech/", "描述": "支持 HTTP 调试和抓包的在线工具。" },
+        { "网站名称": "Mocky", "网址": "https://designer.mocky.io/", "描述": "快速创建自定义 API 响应的 Mock 服务。" }
+      ]
+    }
+  }
+}

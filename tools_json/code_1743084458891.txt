@@ -1,0 +1,16 @@
+{
+  "图片处理工具": {
+    "图片格式转换": [
+      { "网站名称": "Convertio", "网址": "https://convertio.co/", "描述": "支持多种图片格式的转换，包括 JPG、PNG、GIF、HEIC 等。" },
+      { "网站名称": "Image Online-Convert", "网址": "https://image.online-convert.com/", "描述": "提供多种图片格式转换功能，适合设计师和普通用户。" },
+      { "网站名称": "iLoveIMG", "网址": "https://www.iloveimg.com/", "描述": "支持 JPG、PNG 等格式互转，操作简单，支持批量转换。" },
+      { "网站名称": "CloudConvert", "网址": "https://cloudconvert.com/", "描述": "支持图片、文档、音视频等多种格式转换，功能强大。" },
+      { "网站名称": "FreeConvert", "网址": "https://www.freeconvert.com/", "描述": "支持多种图片格式转换，免费提供无广告体验。" },
+      { "网站名称": "Img2Go", "网址": "https://www.img2go.com/", "描述": "支持 JPG、PNG、GIF 等格式转换和编辑，功能丰富。" },
+      { "网站名称": "TinyPNG", "网址": "https://tinypng.com/", "描述": "支持图片压缩和格式转换，适合优化图片性能。" },
+      { "网站名称": "Squoosh", "网址": "https://squoosh.app/", "描述": "Google 开发的在线图片优化工具，支持格式转换。" },
+      { "网站名称": "Photopea", "网址": "https://www.photopea.com/", "描述": "支持图片格式转换和编辑的强大在线工具，类似 Photoshop。" },
+      { "网站名称": "ResizeImage", "网址": "https://resizeimage.net/", "描述": "支持图片格式转换、裁剪和调整大小，易于使用。" }
+    ]
+  }
+}

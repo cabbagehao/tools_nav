@@ -1,0 +1,18 @@
+{
+  "学术与办公工具": {
+    "文字处理": {
+      "在线拼写检查": [
+        { "网站名称": "Grammarly", "网址": "https://www.grammarly.com/", "描述": "高级拼写检查和语法校正工具。" },
+        { "网站名称": "ProWritingAid", "网址": "https://prowritingaid.com/", "描述": "提供深度语法检查和风格改进建议。" },
+        { "网站名称": "Slick Write", "网址": "https://www.slickwrite.com/", "描述": "简单易用的在线拼写检查和语法校正工具。" },
+        { "网站名称": "Ginger Software", "网址": "https://www.gingersoftware.com/", "描述": "支持多语言的拼写检查和语法校正工具。" },
+        { "网站名称": "GrammarCheck", "网址": "https://www.grammarcheck.net/", "描述": "免费拼写和语法检查工具，适合日常使用。" },
+        { "网站名称": "LanguageTool", "网址": "https://languagetool.org/", "描述": "支持多语言的拼写和语法检查工具。" },
+        { "网站名称": "SpellCheckPlus", "网址": "https://spellcheckplus.com/", "描述": "帮助用户改进英语写作的拼写检查工具。" },
+        { "网站名称": "OnlineCorrection", "网址": "https://www.onlinecorrection.com/", "描述": "免费在线拼写和语法检查工具。" },
+        { "网站名称": "Reverso", "网址": "https://www.reverso.net/spell-checker/", "描述": "多语言拼写和语法检查工具，支持翻译功能。" },
+        { "网站名称": "WhiteSmoke", "网址": "https://www.whitesmoke.com/", "描述": "支持专业写作的拼写和语法检查工具。" }
+      ]
+    }
+  }
+}

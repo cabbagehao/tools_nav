@@ -1,0 +1,18 @@
+{
+  "娱乐与趣味工具": {
+    "趣味生成器": {
+      "随机数生成器": [
+        { "网站名称": "Random.org", "网址": "https://www.random.org/", "描述": "提供真正随机数生成的在线工具。" },
+        { "网站名称": "CalculatorSoup Random Number Generator", "网址": "https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php", "描述": "支持生成随机整数、浮点数和序列。" },
+        { "网站名称": "NumberGenerator.org", "网址": "https://numbergenerator.org/", "描述": "提供随机数生成和其他统计工具功能。" },
+        { "网站名称": "Random Number Generator", "网址": "https://www.randomnumbergenerator.com/", "描述": "简单易用的随机数生成工具。" },
+        { "网站名称": "Picker Wheel", "网址": "https://pickerwheel.com/", "描述": "支持随机选择和数值生成的趣味工具。" },
+        { "网站名称": "Wheel of Names", "网址": "https://wheelofnames.com/", "描述": "支持随机选择的趣味转盘工具。" },
+        { "网站名称": "GIGA Calculator Random Generator", "网址": "https://www.gigacalculator.com/calculators/random-number-generator.php", "描述": "支持随机数生成和其他数学工具。" },
+        { "网站名称": "RANDOMLISTS", "网址": "https://www.randomlists.com/", "描述": "支持随机生成列表、数字和文字的工具。" },
+        { "网站名称": "Random Name Picker", "网址": "https://www.miniwebtool.com/random-name-picker/", "描述": "支持随机选择名字和其他元素的工具。" },
+        { "网站名称": "TextFixer Random Number Generator", "网址": "https://www.textfixer.com/tools/random-number-generator.php", "描述": "简单快速的随机数生成工具。" }
+      ]
+    }
+  }
+}

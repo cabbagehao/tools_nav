@@ -1,0 +1,44 @@
+{
+  "文件处理工具": {
+    "文档转换": {
+      "PDF 转 Word/Excel/PPT": [
+        { "网站名称": "iLovePDF", "网址": "https://www.ilovepdf.com/pdf_to_word", "描述": "提供简单快速的 PDF 转 Word、Excel、PPT 功能，支持批量处理。" },
+        { "网站名称": "SmallPDF", "网址": "https://smallpdf.com/pdf-to-word", "描述": "流行的 PDF 转换工具，支持多种文件格式互转，界面友好。" },
+        { "网站名称": "Adobe Acrobat Online", "网址": "https://www.adobe.com/acrobat/online/pdf-to-word.html", "描述": "Adobe 官方的 PDF 转 Word 工具，转换质量高，适合办公需求。" },
+        { "网站名称": "PDF2Go", "网址": "https://www.pdf2go.com/pdf-to-word", "描述": "支持在线 PDF 转 Word、Excel、PPT 的易用工具。" },
+        { "网站名称": "FreePDFConvert", "网址": "https://www.freepdfconvert.com/pdf-to-word", "描述": "快速将 PDF 转换为 Word，支持多种语言和格式。" },
+        { "网站名称": "PDF Candy", "网址": "https://pdfcandy.com/pdf-to-word.html", "描述": "免费 PDF 转换工具，提供高质量的 PDF 转 Word 服务。" },
+        { "网站名称": "Sejda", "网址": "https://www.sejda.com/pdf-to-word", "描述": "在线 PDF 编辑与转换工具，支持 PDF 转 Word、Excel 等。" },
+        { "网站名称": "Zamzar", "网址": "https://www.zamzar.com/pdf-to-word/", "描述": "强大的文件转换工具，支持多种格式，包括 PDF 转 Word。" },
+        { "网站名称": "Foxit PDF", "网址": "https://www.foxit.com/pdf-to-word/", "描述": "Foxit 提供的 PDF 转换工具，适合企业级用户。" },
+        { "网站名称": "SodaPDF", "网址": "https://www.sodapdf.com/pdf-to-word/", "描述": "全功能 PDF 工具，支持在线 PDF 转 Word、Excel、PPT。" }
+      ],
+      "Word/Excel/PPT 转 PDF": [
+        { "网站名称": "iLovePDF", "网址": "https://www.ilovepdf.com/word_to_pdf", "描述": "快速将 Word、Excel、PPT 转换为 PDF，适合办公和学习。" },
+        { "网站名称": "SmallPDF", "网址": "https://smallpdf.com/word-to-pdf", "描述": "提供便捷的 Word、Excel、PPT 转 PDF 功能，支持批量处理。" },
+        { "网站名称": "Adobe Acrobat Online", "网址": "https://www.adobe.com/acrobat/online/word-to-pdf.html", "描述": "Adobe 官方工具，支持高质量 Word 转 PDF，适合专业用户。" },
+        { "网站名称": "PDF2Go", "网址": "https://www.pdf2go.com/word-to-pdf", "描述": "支持 Word、Excel、PPT 转 PDF 的在线工具，操作简单。" },
+        { "网站名称": "FreePDFConvert", "网址": "https://www.freepdfconvert.com/word-to-pdf", "描述": "快速将 Word 文档转换为 PDF，并支持加密选项。" },
+        { "网站名称": "PDF Candy", "网址": "https://pdfcandy.com/word-to-pdf.html", "描述": "免费工具，提供高质量的 Word 转 PDF 服务，无广告。" },
+        { "网站名称": "Zamzar", "网址": "https://www.zamzar.com/convert/word-to-pdf/", "描述": "支持多种文件格式互转的工具，包括 Word 转 PDF。" },
+        { "网站名称": "SodaPDF", "网址": "https://www.sodapdf.com/word-to-pdf/", "描述": "支持在线和离线 Word 转 PDF，适合企业和个人用户。" },
+        { "网站名称": "Sejda", "网址": "https://www.sejda.com/word-to-pdf", "描述": "支持 Word、Excel 转 PDF 的高效在线工具，功能全面。" },
+        { "网站名称": "Online2PDF", "网址": "https://online2pdf.com/", "描述": "提供 Word、Excel 转 PDF 服务，支持批量处理和加密。" }
+      ]
+    },
+    "PDF 操作": {
+      "PDF 合并": [
+        { "网站名称": "iLovePDF", "网址": "https://www.ilovepdf.com/merge_pdf", "描述": "快速合并多个 PDF 文件，支持批量处理和文件排序。" },
+        { "网站名称": "SmallPDF", "网址": "https://smallpdf.com/merge-pdf", "描述": "简单易用的 PDF 合并工具，支持云存储文件导入。" },
+        { "网站名称": "Adobe Acrobat Online", "网址": "https://www.adobe.com/acrobat/online/merge-pdf.html", "描述": "Adobe 提供的高质量 PDF 合并工具，适合专业用户。" },
+        { "网站名称": "PDF2Go", "网址": "https://www.pdf2go.com/merge-pdf", "描述": "支持在线 PDF 合并，操作简单，免费使用。" },
+        { "网站名称": "Sejda", "网址": "https://www.sejda.com/merge-pdf", "描述": "高效的 PDF 合并工具，支持批量上传文件进行合并。" },
+        { "网站名称": "PDF Candy", "网址": "https://pdfcandy.com/merge-pdf.html", "描述": "免费合并 PDF 文件，支持文件拖拽和排序。" },
+        { "网站名称": "Zamzar", "网址": "https://www.zamzar.com/merge-pdf/", "描述": "支持快速合并多个 PDF 文件，易于使用。" },
+        { "网站名称": "SodaPDF", "网址": "https://www.sodapdf.com/merge-pdf/", "描述": "完整的 PDF 工具，支持合并、压缩和编辑功能。" },
+        { "网站名称": "Online2PDF", "网址": "https://online2pdf.com/", "描述": "支持多个 PDF 文件合并，提供文件加密功能。" },
+        { "网站名称": "CombinePDF", "网址": "https://combinepdf.com/", "描述": "专注于在线合并 PDF 文件，支持多文件上传。" }
+      ]
+    }
+  }
+}

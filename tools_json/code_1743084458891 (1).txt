@@ -1,0 +1,16 @@
+{
+  "音频/视频处理工具": {
+    "音频格式转换": [
+      { "网站名称": "Online Audio Converter", "网址": "https://online-audio-converter.com/", "描述": "支持多种音频格式转换，包括 MP3、WAV、OGG 等。" },
+      { "网站名称": "Convertio", "网址": "https://convertio.co/audio-converter/", "描述": "强大的音频转换工具，支持 MP3、WAV 等主流格式。" },
+      { "网站名称": "FreeConvert", "网址": "https://www.freeconvert.com/audio-converter", "描述": "在线音频格式转换工具，提供无损转换功能。" },
+      { "网站名称": "MP3Cut", "网址": "https://mp3cut.net/", "描述": "支持在线音频剪辑和格式转换，操作简单。" },
+      { "网站名称": "Media.io", "网址": "https://www.media.io/audio-converter.html", "描述": "支持多种音频格式转换和压缩的高效工具。" },
+      { "网站名称": "Audio Trimmer", "网址": "https://audiotrimmer.com/", "描述": "简单易用的音频剪辑和格式转换工具。" },
+      { "网站名称": "FileZigZag", "网址": "https://www.filezigzag.com/audio-converter.html", "描述": "支持多种音频格式转换的免费在线工具。" },
+      { "网站名称": "CloudConvert", "网址": "https://cloudconvert.com/audio-converter", "描述": "支持音频、视频、图片等格式转换的综合工具。" },
+      { "网站名称": "Apowersoft Free Online Audio Converter", "网址": "https://www.apowersoft.com/free-online-audio-converter", "描述": "提供高质量音频格式转换的免费工具。" },
+      { "网站名称": "AnyConv", "网址": "https://anyconv.com/audio-converter/", "描述": "支持快速音频格式转换的免费在线工具。" }
+    ]
+  }
+}

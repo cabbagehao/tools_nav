@@ -1,0 +1,18 @@
+{
+  "数学与科学工具": {
+    "数学计算": {
+      "在线计算器": [
+        { "网站名称": "Desmos", "网址": "https://www.desmos.com/calculator", "描述": "功能强大的在线图形计算器，支持多种数学运算。" },
+        { "网站名称": "Symbolab", "网址": "https://www.symbolab.com/", "描述": "支持方程求解、积分、微分等功能的数学计算器。" },
+        { "网站名称": "WolframAlpha", "网址": "https://www.wolframalpha.com/", "描述": "强大的数学计算和知识查询引擎。" },
+        { "网站名称": "GeoGebra", "网址": "https://www.geogebra.org/", "描述": "适合教育用途的数学工具，支持几何和代数计算。" },
+        { "网站名称": "Calculator Soup", "网址": "https://www.calculatorsoup.com/", "描述": "提供多种数学计算功能的在线工具。" },
+        { "网站名称": "Mathway", "网址": "https://www.mathway.com/", "描述": "支持多种数学运算的在线计算器，适合学生使用。" },
+        { "网站名称": "Omni Calculator", "网址": "https://www.omnicalculator.com/", "描述": "涵盖多种数学和科学计算功能的在线工具。" },
+        { "网站名称": "RapidTables", "网址": "https://www.rapidtables.com/", "描述": "提供基础数学运算和单位换算功能。" },
+        { "网站名称": "Online Calculator", "网址": "https://www.online-calculator.com/", "描述": "简单易用的在线数学计算器。" },
+        { "网站名称": "Good Calculators", "网址": "https://goodcalculators.com/", "描述": "提供多种数学和金融计算功能的在线工具。" }
+      ]
+    }
+  }
+}

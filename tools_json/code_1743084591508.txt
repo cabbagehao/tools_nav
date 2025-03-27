@@ -1,0 +1,46 @@
+{
+  "金融与货币工具": {
+    "货币转换": {
+      "实时汇率转换": [
+        { "网站名称": "XE Currency Converter", "网址": "https://www.xe.com/", "描述": "提供实时汇率查询和货币转换功能。" },
+        { "网站名称": "OANDA Currency Converter", "网址": "https://www.oanda.com/currency-converter/", "描述": "支持多种货币的实时转换和历史汇率查询。" },
+        { "网站名称": "Google Currency Converter", "网址": "https://www.google.com/search?q=currency+converter", "描述": "通过 Google 搜索进行快速货币转换。" },
+        { "网站名称": "Yahoo Finance Currency Converter", "网址": "https://finance.yahoo.com/currency-converter/", "描述": "提供实时汇率查询和货币转换功能。" },
+        { "网站名称": "X-Rates", "网址": "https://www.x-rates.com/", "描述": "支持实时汇率查询和货币换算的工具。" },
+        { "网站名称": "Currency Converter by TransferWise", "网址": "https://wise.com/currency-converter/", "描述": "提供实时汇率转换，支持无隐藏费用的国际转账。" },
+        { "网站名称": "CoinMill", "网址": "https://coinmill.com/", "描述": "简单的在线货币转换器，支持各种货币。" },
+        { "网站名称": "Forex Rates", "网址": "https://www.forex-rates.com/", "描述": "提供实时汇率和货币换算服务。" },
+        { "网站名称": "ExchangeRate", "网址": "https://www.exchangerate.com/", "描述": "支持全球货币实时汇率转换的工具。" },
+        { "网站名称": "WorldRemit Currency Converter", "网址": "https://www.worldremit.com/en/currency-converter", "描述": "支持实时汇率查询和国际货币转换。" }
+      ]
+    },
+    "投资工具": {
+      "股票走势图": [
+        { "网站名称": "TradingView", "网址": "https://www.tradingview.com/", "描述": "提供实时股票价格和技术分析图表。" },
+        { "网站名称": "Yahoo Finance", "网址": "https://finance.yahoo.com/", "描述": "提供股票价格趋势、图表和市场分析。" },
+        { "网站名称": "Google Finance", "网址": "https://www.google.com/finance", "描述": "快速查看股票行情和历史趋势。" },
+        { "网站名称": "MarketWatch", "网址": "https://www.marketwatch.com/", "描述": "实时股票价格和市场新闻平台。" },
+        { "网站名称": "NASDAQ", "网址": "https://www.nasdaq.com/", "描述": "官方股票交易所平台，提供实时股票图表。" },
+        { "网站名称": "Seeking Alpha", "网址": "https://seekingalpha.com/", "描述": "提供股票分析、市场研究和图表工具。" },
+        { "网站名称": "Bloomberg Markets", "网址": "https://www.bloomberg.com/markets", "描述": "提供全球范围内的股票图表、价格和财经新闻。" },
+        { "网站名称": "CNBC Markets", "网址": "https://www.cnbc.com/markets/", "描述": "实时股票数据和市场趋势分析工具。" },
+        { "网站名称": "Zacks", "网址": "https://www.zacks.com/", "描述": "专注于股票分析和投资策略的工具。" },
+        { "网站名称": "Morningstar", "网址": "https://www.morningstar.com/", "描述": "提供股票市场分析和投资组合管理工具。" }
+      ]
+    },
+    "贷款与预算": {
+      "贷款计算器": [
+        { "网站名称": "Bankrate Loan Calculator", "网址": "https://www.bankrate.com/calculators/mortgages/loan-calculator.aspx", "描述": "提供简单易用的贷款和抵押计算功能。" },
+        { "网站名称": "NerdWallet Loan Calculator", "网址": "https://www.nerdwallet.com/calculators/loan", "描述": "帮助用户计算贷款付款和总成本的工具。" },
+        { "网站名称": "Calculator.net Loan Calculator", "网址": "https://www.calculator.net/loan-calculator.html", "描述": "支持多种贷款计算选项的免费工具。" },
+        { "网站名称": "Mortgage Calculator", "网址": "https://www.mortgagecalculator.org/", "描述": "专注于抵押贷款计算和分期付款分析的工具。" },
+        { "网站名称": "MoneyGeek Loan Calculator", "网址": "https://www.moneygeek.com/financial-planning/calculators/loan/", "描述": "提供详细的贷款分期付款和利息计算功能。" },
+        { "网站名称": "SmartAsset Loan Calculator", "网址": "https://smartasset.com/mortgage/loan-calculator", "描述": "帮助用户计划贷款预算和计算利率的工具。" },
+        { "网站名称": "US Bank Loan Calculator", "网址": "https://www.usbank.com/calculators-loans.html", "描述": "官方贷款计算器，支持多种贷款类型的计算。" },
+        { "网站名称": "Quicken Loans", "网址": "https://www.quickenloans.com/calculators", "描述": "提供贷款支付计划和总成本分析。" },
+        { "网站名称": "LoanBuilder", "网址": "https://www.loanbuilder.com/", "描述": "帮助用户快速计算贷款成本的工具。" },
+        { "网站名称": "LendingTree Loan Calculator", "网址": "https://www.lendingtree.com/calculators/", "描述": "支持多种贷款类型的分期付款计算工具。" }
+      ]
+    }
+  }
+}
